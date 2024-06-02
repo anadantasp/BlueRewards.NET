@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlueRewards")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f528ac57a16231503064aa8e819a9a923db0a3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlueRewards")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlueRewards")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,6 +9,8 @@ namespace BlueRewards.Models
 		public int CupomId { get; set; }
 		[Required]
 		public string Descricao { get; set; }
+
+		public string Codigo { get; set; }
 		public DateTime Validade { get; set; }
 		[Required]
 		public int Pontuacao { get; set; }

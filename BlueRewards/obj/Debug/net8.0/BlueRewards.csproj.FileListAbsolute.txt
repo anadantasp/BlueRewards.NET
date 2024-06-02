@@ -134,3 +134,4 @@ C:\Users\anaca\source\repos\BlueRewards\BlueRewards\obj\Debug\net8.0\refint\Blue
 C:\Users\anaca\source\repos\BlueRewards\BlueRewards\obj\Debug\net8.0\BlueRewards.pdb
 C:\Users\anaca\source\repos\BlueRewards\BlueRewards\obj\Debug\net8.0\BlueRewards.genruntimeconfig.cache
 C:\Users\anaca\source\repos\BlueRewards\BlueRewards\obj\Debug\net8.0\ref\BlueRewards.dll
+C:\Users\anaca\source\repos\BlueRewards\BlueRewards\obj\Debug\net8.0\BlueRewards.sourcelink.json

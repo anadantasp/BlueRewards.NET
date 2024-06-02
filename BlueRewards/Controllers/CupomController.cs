@@ -43,6 +43,7 @@ namespace BlueRewards.Controllers
 			{
 				Cupom cupom = new Cupom();
 				cupom.Descricao = cupomDto.Descricao;
+				cupom.Codigo = cupomDto.Codigo;
 				cupom.Validade = cupomDto.Validade;
 				cupom.Pontuacao = cupomDto.Pontuacao;
 				cupom.Empresa = _dbContext.Empresas.Find(cupomDto.EmpresaId);
