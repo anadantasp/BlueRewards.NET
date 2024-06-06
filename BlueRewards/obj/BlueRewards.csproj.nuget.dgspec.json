@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anaca\\source\\repos\\BlueRewards\\BlueRewards\\BlueRewards.csproj": {}
+    "C:\\Users\\anaca\\OneDrive\\Documentos\\.NET\\BlueRewards\\BlueRewards.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anaca\\source\\repos\\BlueRewards\\BlueRewards\\BlueRewards.csproj": {
+    "C:\\Users\\anaca\\OneDrive\\Documentos\\.NET\\BlueRewards\\BlueRewards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anaca\\source\\repos\\BlueRewards\\BlueRewards\\BlueRewards.csproj",
+        "projectUniqueName": "C:\\Users\\anaca\\OneDrive\\Documentos\\.NET\\BlueRewards\\BlueRewards.csproj",
         "projectName": "BlueRewards",
-        "projectPath": "C:\\Users\\anaca\\source\\repos\\BlueRewards\\BlueRewards\\BlueRewards.csproj",
+        "projectPath": "C:\\Users\\anaca\\OneDrive\\Documentos\\.NET\\BlueRewards\\BlueRewards.csproj",
         "packagesPath": "C:\\Users\\anaca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anaca\\source\\repos\\BlueRewards\\BlueRewards\\obj\\",
+        "outputPath": "C:\\Users\\anaca\\OneDrive\\Documentos\\.NET\\BlueRewards\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Oracle.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.21.121, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[23.4.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

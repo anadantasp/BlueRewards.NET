@@ -1,5 +1,6 @@
 ﻿using BlueRewards.Dto;
 using BlueRewards.Models;
+using BlueRewards.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

@@ -1,5 +1,6 @@
 using BlueRewards.Models;
 using Microsoft.EntityFrameworkCore;
+using BlueRewards.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +12,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 string sqlServer = builder.Configuration.GetConnectionString("DefaultConnection");
+string oracle = builder.Configuration.GetConnectionString("DefaultConnection");
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-	options.UseSqlServer(sqlServer)
+	options.UseOracle(oracle)
 );
 
 var app = builder.Build();
