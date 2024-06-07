@@ -1,7 +1,7 @@
 # BlueRewards.NET
 
 ## Escopo do produto
-Leia o escopo do produto [aqui](https://github.com/anadantasp/BlueRewards.NET/blob/main/Documentacao/Escopo%20do%20Produo%20-%20BlueRewards.pdf)
+Leia o escopo do produto [aqui](https://github.com/anadantasp/BlueRewards.NET/blob/main/Documentacao/Escopo%20do%20Produo%20-%20BlueRewards%20.pdf)
 
 ## Passo a passo de como executar o projeto
 Acesse [aqui](#) o vídeo mostrando a execução do projeto
