@@ -4,7 +4,7 @@
 Leia o escopo do produto [aqui](https://github.com/anadantasp/BlueRewards.NET/blob/main/Documentacao/Escopo%20do%20Produo%20-%20BlueRewards%20.pdf)
 
 ## Passo a passo de como executar o projeto
-Acesse [aqui](#) o vídeo mostrando a execução do projeto
+Acesse [aqui](https://www.youtube.com/watch?v=IAD5RYQ5E7o) o vídeo mostrando a execução do projeto
 
 Repositório Java: [BlueRewardsJava](https://github.com/anadantasp/BlueRewards)
 
