@@ -6,7 +6,9 @@ namespace BlueRewards.Models
 	{
 		[Key]
 		public int EmpresaId { get; set; }
+		[Required]
 		public string Cnpj {  get; set; }
+		[Required]
 		public string Nome { get; set; }
 	}
 }

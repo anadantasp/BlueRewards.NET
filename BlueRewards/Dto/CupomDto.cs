@@ -8,10 +8,13 @@ namespace BlueRewards.Dto
 	{
 		[Required]
 		public string Descricao { get; set; }
+		[Required]
 		public string Codigo { get; set; }
+		[Required]
 		public DateTime Validade { get; set; }
 		[Required]
 		public int Pontuacao { get; set; }
+		[Required]
 		public int EmpresaId { get; set; }
 	}
 }

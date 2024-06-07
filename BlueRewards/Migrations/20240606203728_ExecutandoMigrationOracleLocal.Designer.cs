@@ -12,7 +12,7 @@ using Oracle.EntityFrameworkCore.Metadata;
 namespace BlueRewards.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240606040348_ExecutandoMigrationOracleLocal")]
+    [Migration("20240606203728_ExecutandoMigrationOracleLocal")]
     partial class ExecutandoMigrationOracleLocal
     {
         /// <inheritdoc />

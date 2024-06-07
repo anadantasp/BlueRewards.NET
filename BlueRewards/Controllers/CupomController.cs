@@ -57,5 +57,19 @@ namespace BlueRewards.Controllers
 			return BadRequest();
 
 		}
+
+		[HttpDelete("{id:int}")]
+		public async Task<IActionResult> Delete(int id)
+		{
+			var cupom = await _dbContext.Cupons.FindAsync(id);
+			if (cupom == null)
+			{
+				return NotFound();
+			}
+
+			_dbContext.Cupons.Remove(cupom);
+			await _dbContext.SaveChangesAsync();
+			return Ok(cupom);
+		}
 	}
 }
