@@ -3,6 +3,9 @@
 ## Escopo do produto
 Leia o escopo do produto [aqui](https://github.com/anadantasp/BlueRewards.NET/blob/main/Documentacao/Escopo%20do%20Produo%20-%20BlueRewards%20.pdf)
 
+## Vídeo pitch
+Acesse [aqui](https://www.youtube.com/watch?v=9rkphwK17oo)
+
 ## Passo a passo de como executar o projeto
 Acesse [aqui](https://www.youtube.com/watch?v=IAD5RYQ5E7o) o vídeo mostrando a execução do projeto
 
